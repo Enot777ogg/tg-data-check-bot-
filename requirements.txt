@@ -1,0 +1,5 @@
+aiogram
+phonenumbers
+httpx
+pandas
+python-dotenv
